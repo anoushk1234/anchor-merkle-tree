@@ -1,6 +1,6 @@
 [package]
 name = "anchor-merkle-tree"
-version = "1.15.0"
+version = "1.15.1"
 description = "Anchor Merkle Tree: a fork of solana-merkle-tree for anchor compatibility"
 authors = ["Anoushk Kharangate <kharangateanoushk04@gmail.com>"]
 repository = "https://github.com/anoushk1234/anchor-merkle-tree"
